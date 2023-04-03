@@ -1,0 +1,8 @@
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\bin\Debug\Server.exe.config
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\bin\Debug\Server.exe
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\bin\Debug\Server.pdb
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\obj\Debug\Server.exe
+C:\Users\hikdu\Workspace\SocketsInC#\1.-BasesSockets\Server\Server\obj\Debug\Server.pdb
